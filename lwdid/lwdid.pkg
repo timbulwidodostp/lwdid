@@ -1,0 +1,8 @@
+D 'cub': Ordinal outcome model estimated by a mixture of a Uniform and a shifted Binomial Use cub With STATA 19
+D
+F cub.ado
+F cub.sthlp
+F cub14.ado
+F cub14s.ado
+F scattercub.ado
+F scattercub.sthlp

@@ -1,8 +1,11 @@
-D 'cub': Ordinal outcome model estimated by a mixture of a Uniform and a shifted Binomial Use cub With STATA 19
+D 'lwdid': Lee-Wooldridge Difference-in-Differences (DID) Estimation Use lwdid With STATA 19
 D
-F cub.ado
-F cub.sthlp
-F cub14.ado
-F cub14s.ado
-F scattercub.ado
-F scattercub.sthlp
+F lwdid.ado
+F lwdid.sthlp
+F outreg2.ado
+F outreg2.hlp
+F outreg2_prf.ado
+F seeout.ado
+F seeout.hlp
+F shellout.ado
+F shellout.hlp

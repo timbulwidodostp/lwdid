@@ -1,6 +1,8 @@
 # lwdid
 Lee-Wooldridge Difference-in-Differences (DID) Estimation Use lwdid With STATA 19
 
+https://www.youtube.com/watch?v=AI3NYZ95VMY
+
 Olah Data Semarang
 
 WA: +6285227746673 (085227746673)
